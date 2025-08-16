@@ -48,7 +48,7 @@ Create the component and deploy it on the desired page. The above will work both
 
 You know how we do.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/velizarn/sample-canvas-app)
 
 # Etc.
 
